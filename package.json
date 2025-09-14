@@ -1,6 +1,6 @@
 {
   "name": "@enginnblt/react-native-wizard",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A comprehensive React Native project starter wizard with support for Expo and React Native Community CLI",
   "main": "index.js",
   "bin": {
