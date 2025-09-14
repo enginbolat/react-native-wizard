@@ -1,0 +1,38 @@
+{
+  "name": "@enginnblt/react-native-wizard",
+  "version": "1.0.0",
+  "description": "A comprehensive React Native project starter wizard with support for Expo and React Native Community CLI",
+  "main": "index.js",
+  "bin": {
+    "rn-wizard": "./start-cli.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "cli",
+    "wizard",
+    "starter",
+    "project-generator",
+    "mobile-development"
+  ],
+  "author": "enginnblt",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enginnblt/react-native-wizard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/enginnblt/react-native-wizard/issues"
+  },
+  "homepage": "https://github.com/enginnblt/react-native-wizard#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "start-cli.sh",
+    "README.md"
+  ]
+}
